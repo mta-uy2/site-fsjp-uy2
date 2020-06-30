@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://fsjp.univ-yaounde2.org"
+baseURL = ""
 title = "FSJP"
 # Faculté des Sciences Juridiques et Politiquess
 theme = "educenter-hugo-master"
