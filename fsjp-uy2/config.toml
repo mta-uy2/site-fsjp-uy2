@@ -83,38 +83,38 @@ hasChildren = true
   weight = 15
 
 [[menu.main]]
-name = "Les Formations offertes"
+name = "Les Formations"
 URL = "course"
 weight = 2
 hasChildren = true
 
   [[menu.main]]
-  parent = "Les Formations offertes"
+  parent = "Les Formations"
   name = "Calendrier Universitaire"
-  URL = "teacher"
+  URL = "notice"
   weight = 20
 
   [[menu.main]]
-  parent = "Les Formations offertes"
+  parent = "Les Formations"
   name = "Licence"
-  URL = "teacher"
+  URL = "scholarship"
   weight = 21
 
   [[menu.main]]
-  parent = "Les Formations offertes"
+  parent = "Les Formations"
   name = "Master"
-  URL = "notice"
+  URL = "scholarship"
   weight = 22
 
   [[menu.main]]
-  parent = "Les Formations offertes"
+  parent = "Les Formations"
   name = "Doctorat"
   URL = "scholarship"
   weight = 23
 
 
 [[menu.main]]
-name = "La recherche en FSJP"
+name = "La recherche"
 URL = "research"
 weight = 3
 
